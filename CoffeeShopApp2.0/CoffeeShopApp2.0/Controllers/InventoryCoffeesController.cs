@@ -9,6 +9,8 @@ using System.Web.Mvc;
 using CoffeeShopApp2._0.DALdata;
 using CoffeeShopApp2._0.Models;
 
+
+// James - I'll review in person
 namespace CoffeeShopApp2._0.Controllers
 {
     public class InventoryCoffeesController : Controller
